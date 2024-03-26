@@ -27,7 +27,7 @@ void inputData()
 {
 	cout << "\nMasukan bilangan pertama: ";
 	cin >> bilangan1;
-	cout << "MAsukan bilangan kedua: ":
+	cout << "Masukan bilangan kedua: ";
 	cin >> bilangan2;
 }
 
